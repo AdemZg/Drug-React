@@ -1,0 +1,56 @@
+Drug A Name,Drug A Chemical Structure,Drug B Name,Drug B Chemical Structure,Interaction,Reason for Interaction
+Amoxicillin,C16H19N3O5S,Warfarin,C19H16O4,Yes,Increased risk of bleeding
+Ciprofloxacin,C17H18FN3O3,Tizanidine,C9H8N5S,Yes,Increased risk of sedation and hypotension
+Furosemide,C12H11ClN2O5S,Digoxin,C41H64O14,Yes,Increased risk of digoxin toxicity
+Ibuprofen,C13H18O2,Aspirin,C9H8O4,Yes,Increased risk of bleeding
+Methotrexate,C20H22N8O5,Probenecid,C13H19NO4S,Yes,Increased risk of methotrexate toxicity
+Metformin,C4H11N5,Cimetidine,C10H16N6S,Yes,Increased risk of lactic acidosis
+Naproxen,16C14H14O3,Lithium,1s2s1,Yes,Increased risk of lithium toxicity
+Paroxetine,C19H20FNO3,Tamoxifen,C26H29NO,Yes,Decreased effectiveness of tamoxifen
+Simvastatin,C25H38O5,Verapamil,C27H38N2O4,Yes,Increased risk of muscle injury
+Acetaminophen,C8H9NO2,Loratadine,C22H23ClN2O2,No,No known interaction
+Atorvastatin,C33H35FN2O5,Metoprolol,C15H25NO3,No,No known interaction
+Citalopram,C20H21FN2O,Omeprazole,C17H19N3O3S,No,No known interaction
+Diazepam,C16H13ClN2O,Diphenhydramine,C17H21NO,No,No known interaction
+Fluticasone,C22H27F3O4S,Montelukast,C35H36ClNO3S,No,No known interaction
+Gabapentin,C9H17NO2,Pregabalin,C8H17NO2,No,No known interaction
+Hydrochlorothiazide,C7H8ClN3O4S2,Spironolactone,C24H32O4S,No,No known interaction
+Levothyroxine,C15H11I4NO4,Prednisone,C21H26O5,No,No known interaction
+Sertraline,C17H17Cl2N,Topiramate,C12H21NO8S,No,No known interaction
+Tamsulosin,C20H28N2O5S,Tadalafil,C22H19N3O4,No,No known interaction
+Amoxicillin,C16H19N3O5S,Warfarin,C19H16O4,Yes,Increased risk of bleeding
+Ciprofloxacin,C17H18FN3O3,Tizanidine,C9H8N5S,Yes,Increased risk of sedation and hypotension
+Furosemide,C12H11ClN2O5S,Digoxin,C41H64O14,Yes,Increased risk of digoxin toxicity
+Ibuprofen,C13H18O2,Aspirin,C9H8O4,Yes,Increased risk of bleeding
+Methotrexate,C20H22N8O5,Probenecid,C13H19NO4S,Yes,Increased risk of methotrexate toxicity
+Metformin,C4H11N5,Cimetidine,C10H16N6S,Yes,Increased risk of lactic acidosis
+Naproxen,C14H14O3,Lithium,1s2s1,Yes,Increased risk of lithium toxicity
+Paroxetine,C19H20FNO3,Tamoxifen,C26H29NO,Yes,Decreased effectiveness of tamoxifen
+Simvastatin,C25H38O5,Verapamil,C27H38N2O4,Yes,Increased risk of muscle injury
+Acetaminophen,C8H9NO2,Loratadine,C22H23ClN2O2,No,No known interaction
+Atorvastatin,C33H35FN2O5,Metoprolol,C15H25NO3,No,No known interaction
+Citalopram,C20H21FN2O,Omeprazole,C17H19N3O3S,No,No known interaction
+Diazepam,C16H13ClN2O,Diphenhydramine,C17H21NO,No,No known interaction
+Fluticasone,C22H27F3O4S ,Montelukast,C35H36ClNO3S,No,No known interaction
+Gabapentin,C9H17NO2,Pregabalin,C8H17NO2,No,No known interaction
+Hydrochlorothiazide,C7H8ClN3O4S2,Spironolactone,C24H32O4S,No,No known interaction
+Levothyroxine,C15H11I4NO4,Prednisone,C21H26O5,No,No known interaction
+Sertraline,C17H17Cl2N,Topiramate,C12H21NO8S,No,No known interaction
+Tamsulosin,C20H28N2O5S,Tadalafil,C22H19N3O4,No,No known interaction
+Warfarin,C19H16O4,Aspirin,C9H8O4,Yes,Increased risk of bleeding
+Simvastatin,C25H38O5,Clarithromycin,C38H69NO13,Yes,Increased risk of muscle damage
+Ciprofloxacin,C17H18FN3O3,Theophylline,C7H8N4O2,Yes,Increased risk of theophylline toxicity
+Metformin,C4H11N5,Losartan,C22H23ClN6O,No,No known interaction
+Ibuprofen,C13H18O2,Acetaminophen,C8H9NO2,No,No known interaction
+Furosemide,C12H11ClN2O5S,Digoxin,C41H64O14,Yes,Increased risk of digoxin toxicity
+Amoxicillin,C16H19N3O5S,Warfarin,C19H16O4,Yes,Increased risk of bleeding
+Trazodone,C19H22ClN5O,Venlafaxine,C17H27NO2,Yes,Increased risk of serotonin syndrome
+Metformin,C4H11N5,Glimepiride,C24H34N4O5S,No,No known interaction
+Aspirin,C9H8O4,Ibuprofen,C13H18O2,Yes,Increased risk of stomach bleeding
+Atenolol,C14H22N2O3,Lisinopril,C21H35N3O7,No,No known interaction
+Diphenhydramine,C17H21NO,Pseudoephedrine,C10H15NO,Yes,Increased risk of side effects
+Metformin,C4H11N5,Insulin,C257H383N65O77S6,No,No known interaction
+Amlodipine,C26H31ClN2O8S ,Losartan,C22H23ClN6O,No,No known interaction
+Citalopram,C20H21FN2O,Tramadol,C16H25NO2,No,No known interaction
+Furosemide,"C12H11ClN2O5S
+",Spironolactone,C24H32O4S,Yes,Increased risk of potassium imbalances
